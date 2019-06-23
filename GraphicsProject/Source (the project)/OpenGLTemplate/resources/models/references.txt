@@ -1,0 +1,15 @@
+models
+blue sphere - https://www.cgtrader.com/items/82986/download-page
+simple spaceship - https://www.cgtrader.com/items/798624/download-page
+asteroid - https://www.cgtrader.com/items/703528/download-page
+resonance (oberver ship) - https://www.cgtrader.com/items/622446/download-page
+Road light - 
+
+skybox - http://www.custommapmakers.org/skyboxes.php
+
+textures
+roadTexture - https://www.pinterest.com/pin/25755029098508268/
+roadSphere texture - http://www.onlygfx.com/wp-content/uploads/2016/08/dark-red-watercolor-4.jpg
+cylinderTexture - https://opengameart.org/content/4096-scifi-hex-tiles-pbr-texture
+
+

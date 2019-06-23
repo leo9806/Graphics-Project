@@ -1,0 +1,194 @@
+# Blender MTL File: 'NXResonance_BM.blend'
+# Material Count: 15
+
+newmtl Glass_Red.001
+Ns 749.999996
+Ka 0.700000 0.700000 0.700000
+Kd 0.213409 0.002726 0.002281
+Ks 0.500000 0.500000 0.500000
+Ke 0.266761 0.003408 0.002851
+Ni 1.000000
+d 0.900000
+illum 3
+
+newmtl Hull_L_A
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Hull_L_A_Tex.png
+map_Bump -bm 0.100000 Hull_L_A_Bump.png
+map_Ke Hull_L_A_Emit.png
+
+newmtl Hull_L_A_D
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Hull_L_A_Tex.png
+map_Bump -bm 0.100000 Hull_L_A_D_Bump.png
+map_Ke Hull_L_A_D_Emit.png
+
+newmtl Hull_L_A_NONE
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.100000 Hull_L_A_Bump.png
+map_Kd Hull_L_A_Tex.png
+map_Ke Hull_L_A_Emit.png
+
+newmtl Hull_U_A
+Ns 749.999996
+Ka 0.010000 0.010000 0.010000
+Kd 0.734815 0.734815 0.734815
+Ks 0.122222 0.122222 0.122222
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Hull_U_A.png
+map_Bump -bm -0.050000 Hull_U_A.png
+map_Ke Hull_U_A_Emit.png
+
+newmtl Impulse
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Saucer_TD_Tex.png
+map_Bump -bm 2.000000 Saucer_TDR_Bump.png
+map_Ke Saucer_TDR_Emit.png
+
+newmtl Impulse_Saucer_TDR_Emit.png
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Saucer_TDR_Emit.png
+map_Bump -bm 2.000000 Saucer_TDR_Bump.png
+map_Ke Saucer_TDR_Emit.png
+
+newmtl Nacelle_Alpha_Hull
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.456377 0.456377 0.456377
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Nacelle_Alpha_Emit.png
+map_Bump -bm 0.200000 Nacelle_Alpha_Bump.png
+map_Ke Nacelle_Alpha_Emit.png
+
+newmtl Nacelle_Alpha_Hull_NONE
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.456377 0.456377 0.456377
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 Nacelle_Alpha_Bump.png
+map_Kd Nacelle_Alpha_Tex.png
+map_Ke Nacelle_Alpha_Emit.png
+
+newmtl Nameplate
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd REsonanceNamePlate.png
+map_Bump -bm -0.050000 REsonanceNamePlate.png
+map_d REsonanceNamePlate.png
+
+newmtl Pylons_A_U
+Ns 749.999996
+Ka 0.010000 0.010000 0.010000
+Kd 0.734815 0.734815 0.734815
+Ks 0.122222 0.122222 0.122222
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Pylons_A_U_Tex.png
+map_Bump -bm -0.100000 Pylons_A_U_Tex.png
+map_Ke Pylons_A_U_Emit.png
+
+newmtl SaucerTDR
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Saucer_TD_Tex.png
+map_Bump -bm 0.050000 Saucer_TDR_Bump.png
+map_Ke Saucer_TDR_Emit.png
+
+newmtl SaucerTDR_Saucer_TDR_Tex.png
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Saucer_TDR_Tex.png
+map_Bump -bm 0.050000 Saucer_TDR_Bump.png
+map_Ke Saucer_TDR_Emit.png
+
+newmtl Saucer_TD
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Saucer_TD_Tex.png
+map_Bump -bm 0.050000 Saucer_TD_Bump.png
+map_Ke Saucer_TD_Emit.png
+
+newmtl Saucer_TD_NONE
+Ns 96.078431
+Ka 0.010000 0.010000 0.010000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.050000 Saucer_TD_Bump.png
+map_Kd Saucer_TD_Tex.png
+map_Ke Saucer_TD_Emit.png

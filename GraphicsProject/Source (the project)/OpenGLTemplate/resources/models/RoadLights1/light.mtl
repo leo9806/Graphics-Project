@@ -1,0 +1,27 @@
+# Blender MTL File: 'AM152_015 Tlon Light 1950 Suspended_micromesh.obj'
+# Material Count: 2
+
+newmtl 02___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd AM152_015_microprismatic_circle.jpg
+map_Ka AM152_015_microprismatic_circle.jpg
+
+newmtl AM152_015_01
+Ns 66.666667
+Ka 0.000000 0.000000 0.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.160600 0.160600 0.160600
+Ke 0.000000 0.000000 0.000000
+Ni 3.000000
+d 1.000000
+illum 2
+map_Kd AM152_015_brushed_metal.jpg
+map_Ks AM152_015_brushed_metal.jpg
+refl AM152_015_brushed_metal.jpg

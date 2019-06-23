@@ -1,0 +1,46 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.02.2015 14:04:31
+
+newmtl AM152_015_01
+	Ns 66.6667
+	Ni 3.0000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.1606 0.1606 0.1606
+	Ke 0.0000 0.0000 0.0000
+	map_Kd AM152_015_brushed_metal.jpg
+	map_Ks AM152_015_brushed_metal.jpg
+	map_refl AM152_015_brushed_metal.jpg
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka AM152_015_microprismatic_circle.jpg
+	map_Kd AM152_015_microprismatic_circle.jpg
+
+newmtl AM152_015_03
+	Ns 66.6667
+	Ni 20.0000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0353 0.0353 0.0392
+	Ks 2.5500 2.5500 2.5500
+	Ke 0.0000 0.0000 0.0000
+	map_Kd AM152_015_brushed_metal.jpg
+	map_Ks AM152_015_brushed_metal.jpg
+	map_refl AM152_015_brushed_metal.jpg

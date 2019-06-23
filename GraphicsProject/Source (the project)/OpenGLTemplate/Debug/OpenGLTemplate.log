@@ -1,0 +1,12 @@
+﻿  Game.cpp
+Game.cpp(322): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(335): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(363): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(408): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(427): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(502): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(547): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(667): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(718): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  OpenGLTemplate.vcxproj -> C:\Users\Leo\Documents\Template\Debug\OpenGLTemplate.exe
+  OpenGLTemplate.vcxproj -> C:\Users\Leo\Documents\Template\Debug\OpenGLTemplate.pdb (Full PDB)
